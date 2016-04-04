@@ -7,7 +7,7 @@ Assignment 1: Parsing Twitter feeds. Uses python.
 
 Assignment 2: Relational algebra and SQL. Uses SQLite3.
 
-Assignment 3: Map/Reduce examples. Uses python.
+Assignment 3: Using python and MapReduce to do relational join , matrix multiplication and developing a asymmetric relationship detector in a simple social network
 
 Assignment 4 : In progress - Optional Large-scale processing in The Cloud. Using Pig Latin /Map Reduce. 
 
